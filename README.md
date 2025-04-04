@@ -43,6 +43,9 @@ Crafting Cutting-Edge Solutions as a Full-Stack Maestro: Mastering React, React 
 </p>
 
 
+![Turikumwenayo Boase's GitHub stats](https://github-readme-stats.vercel.app/api?username=iradukundairenee&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iradukundairenee&theme=onedark)](https://github.com/iradukundairenee/github-profile-trophy)
+
 
 
 
